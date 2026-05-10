@@ -1,4 +1,4 @@
-module github.com/zerodha/kite-mcp-server/kc/instruments
+module github.com/algo2go/kite-mcp-instruments
 
 go 1.25.0
 
@@ -23,4 +23,3 @@ require (
 )
 
 require github.com/stretchr/testify v1.10.0 // indirect
-
